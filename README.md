@@ -9,6 +9,9 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+CMPUT 301 W26 Lab 1 PDF
+Android Studio documentation / in-class notes
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
