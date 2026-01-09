@@ -17,4 +17,3 @@ Android Studio documentation / in-class notes
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Bryant Liu` | `byliu`   |
-| `<Add more>` | `<CCID>`  |
